@@ -1,2 +1,3 @@
 markdown: rdiscount
 pygments: true
+use_divs: true
