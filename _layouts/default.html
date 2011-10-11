@@ -1,34 +1,12 @@
-<!doctype html>
-<html lang=en>
-  <head>
-    <meta charset=utf-8>
-    <title>{% if page.title %} {{ page.title }} | {% endif %}{{site.title}}</title>
-    <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed/index.xml" />
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ page.title }}</title>
+</head>
 
-    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/screen.css" />
-    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/syntax.css" />
+<body>
+<h1>{{ page.title }}</title>
 
-    <script src="/js/google_analytics.js"></script>
-  </head>
-
-  <body class=container_12>
-    <header>
-      <h1><a href="{{site.url}}">{{site.title}}</a></h1>
-    </header>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      <div class="grid_8 alpha">
-      </div>
-      <div class="grid_4 omega">
-        {{site.email}}
-      </div>
-    </footer>
-  </body>
-
+{{ content }}
+</body>
 </html>
