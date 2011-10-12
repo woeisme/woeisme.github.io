@@ -1,6 +1,7 @@
 ---
 layout: post
 title: testpost
+---
 
 I wonder if this will work.
 
