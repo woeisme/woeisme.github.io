@@ -1,0 +1,7 @@
+---
+layout: default
+title: 2nd test
+---
+
+So we're watching a [makerbot](www.makerbot.com) demonstration / talk from this [gentleman](http://softsolder.com). It's really great so far (still going on) but it can't help but get my mind wandering about where the future is headed regarding print your own physical object technology. Thoughts come to mind of Cory Doctorows novel [Makers](http://craphound.com/makers/) and I think when it's fully ready it's going to be as game changing as the industrial revolution or Internet has been. There's already been some press about the first printed car and really the limits at this point seem to be just the size and accuracy of the printer itself, standard iterative innovation will solve this.
+
