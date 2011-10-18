@@ -156,18 +156,19 @@ ul.posts {
 
   #post pre {
     border: 3px solid #ddd;
-    background-color: thistle;
+    background-color: #D8BFD8;
     padding: 0 .4em;
   }
 
   #post ul,
   #post ol {
     margin-left: 1.35em;
+    margin-right: 1.35em;
   }
 
   #post code {
     border: 1px solid #ddd;
-    background-color: thistle;
+    background-color: #D8BFD8;
     font-size: 85%;
     padding: 0 .2em;
   }
