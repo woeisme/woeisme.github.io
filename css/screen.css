@@ -7,7 +7,7 @@
 /* Global Reset */
 
 * {
-  margin: 5% ;
+  margin: 1 ;
   padding: 1;
 }
 
@@ -155,9 +155,9 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 10px solid #000;
+    border: 1px solid #000;
     background-color: #D8BFD8;
-    padding: 0 .4em;
+    padding: 0 ;
   }
 
   #post ul,
@@ -170,7 +170,7 @@ ul.posts {
     border: 1px solid #000;
     background-color: #D8BFD8;
     font-size: 85%;
-    padding: 0 .4em;
+    padding: 0 ;
   }
 
     #post pre code {
