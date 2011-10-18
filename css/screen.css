@@ -7,8 +7,8 @@
 /* Global Reset */
 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
 }
 
 html, body {
@@ -69,7 +69,7 @@ ul.posts {
   ul.posts span {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+    font-size: 90%;
   }
 
 /*****************************************************************************/
@@ -155,8 +155,8 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
+    border: 3px solid #ddd;
+    background-color: thistle;
     padding: 0 .4em;
   }
 
@@ -167,7 +167,7 @@ ul.posts {
 
   #post code {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: thistle;
     font-size: 85%;
     padding: 0 .2em;
   }
