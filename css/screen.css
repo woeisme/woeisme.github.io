@@ -155,7 +155,7 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 3px solid #ddd;
+    border: 10px solid #000;
     background-color: #D8BFD8;
     padding: 0 .4em;
   }
@@ -167,14 +167,14 @@ ul.posts {
   }
 
   #post code {
-    border: 1px solid #ddd;
+    border: 10px solid #000;
     background-color: #D8BFD8;
     font-size: 85%;
-    padding: 0 .2em;
+    padding: 0 .4em;
   }
 
     #post pre code {
-      border: none;
+      border: solid;
     }
 
   /* terminal */
