@@ -8,7 +8,7 @@
 
 * {
   margin: 10;
-  padding: 10;
+  padding: 10 10;
 }
 
 html, body {
@@ -17,7 +17,6 @@ html, body {
 
 body {
   background-color: Bisque;
-  padding 50px 50px;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: left;
