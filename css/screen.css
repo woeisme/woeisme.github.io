@@ -7,8 +7,8 @@
 /* Global Reset */
 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 1 ;
+  padding: 1;
 }
 
 html, body {
@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color: Bisque;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: left;
@@ -69,7 +69,7 @@ ul.posts {
   ul.posts span {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+    font-size: 90%;
   }
 
 /*****************************************************************************/
@@ -155,25 +155,26 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    padding: 0 .4em;
+    border: 1px solid #000;
+    background-color: #D8BFD8;
+    padding: 0 ;
   }
 
   #post ul,
   #post ol {
     margin-left: 1.35em;
+    margin-right: 1.35em;
   }
 
   #post code {
-    border: 1px solid #ddd;
-    background-color: #eef;
+    border: 1px solid #000;
+    background-color: #D8BFD8;
     font-size: 85%;
-    padding: 0 .2em;
+    padding: 0 ;
   }
 
     #post pre code {
-      border: none;
+      border: solid;
     }
 
   /* terminal */
