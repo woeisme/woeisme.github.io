@@ -18,7 +18,7 @@ html, body {
 body {
   background-color: Black;
   color: Lime;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px monospace, helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: left;
 }
