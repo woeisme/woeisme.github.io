@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: yellow;
 }
 
 a:visited {
@@ -99,7 +99,7 @@ ul.posts {
   }
 
   .site .title a:hover {
-    color: black;
+    color: yellow;
   }
 
   .site .title a.extra {
@@ -109,7 +109,7 @@ ul.posts {
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: yellow;
   }
 
   .site .meta {
