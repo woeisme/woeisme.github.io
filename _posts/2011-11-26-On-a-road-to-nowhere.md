@@ -1,0 +1,7 @@
+---
+layout: default
+title: On a road to nowhere
+---
+
+I'm currently aboard the limited express on my way to Hakodate. It's a small town at the southernmost tip of Hokkaido. I meant to create a new post
+since I went to Otaru but never got around to it. The trip to Otaru turned out to be a good one. I ended up staying in this combination capule / regular hotel at a really low rate and had full access to their onsen. I even treated myself to a massage. I had some of the best sushi I've ever had in my life, I even got to try abalone finally something thats eluded me in the US for a while. Overall however Otaru is a pretty quiet town, I spent the rest of the night just wandering around looking at closed shops. Walking down to the piers I found fishing boats being readied to go out at night. Basically a one night town, coming back to Sapporo I tore up the town in earnest, going out and drinking most every night. Stumbling back to the capsule hotel sometimes as late as five am was starting to add together and I figured I should start thinking about my return leg. There's one small problem of course, my JR rail pass which allows unlimited rail travel in Japan is expired. So far I haven't been caught but if there aren't many updates in the future you may now know why. I'll try to follow with more updates, part of the plan is to make it to Aomori by rail somehow and try to hitchike with some truckers back to tokyo. If all else fails I may just take an overnight bus.   

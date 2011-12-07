@@ -1,0 +1,10 @@
+---
+layout: default
+title: Long Road to Nowhere
+---
+
+Sorry for the long wait between posts, it's rare that I get a free moment to sit and write down all the thoughts that have been percolating in my brain. 
+While travelling I often oscillate between long extremes of idling in one place and rapid movement in some new direction. That being said I write this on the bus
+travelling towards Otaru, a small town outside of Sapporo that. It was recommended to me by the nice women who work at the Sapporo Foreign Communication Institute. Originally I had wandered in just to use the free wifi I read about but before I new it they were scurrying about pulling maps and schedules out from everywhere. I also started to feel a lil guilty about coming all the way to Hokkaido and not at least trying to catch one or two side trips. The informed me that Otaru has a capsule hotel right out front of the station. Since I've been staying in one in Sapporo these last two nights I figure it can't be that much of a change. Staying in the Capsule hotel differed much from how I imagined it. It's not stuffy or dingy at all. I counted about 18 units and they have 4 floors of them so max capacity is somewhere around 72 people. They include lockers and a communal bath not unlike the onsen I stayed at in Ito. So fortunately I know the bathing ritual here. It's mostly populated by overnight businessmen  who keep to themselves. The
+ last two nights have mostly been spent walking around the Susukino aread and getting my bearings. I came across a relaxed gaijin type bar called TK6 and got to help some japanese practice their english a bit. Japanese are very anxious about learning english almost so much so that I think it impedes the learning process. 
+I think it's a quality of Japanese culture to strive for excellence in all activities, anything less is failure. So making mistakes even as part of the learning process is perceived as very shameful. Speaking as one who's whole life is basically blundering from one mess to another one could say I'm slightly biased about the wisdom in this. 
