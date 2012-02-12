@@ -25,5 +25,5 @@ much today is all. Friday, after work we hit three
 in rapid sucession and then a bar. This pretty much rendered me zombie-like the rest of the weekend. There 
 were a decent amount of pictures generated and I'm eager to play with this javascript gallery I added
 to the site. It's called [lightbox](http://lokeshdhakar.com/projects/lightbox2/) and it's a pretty clean way to integrate pictures with a minimum of 
-fuss. Blogging using github still seems like more work than it should be but I'm so deep in already I might as well continue. Tuesday I'm planning on checking out [Hakkavelin](http://http://hakkavelin.is/) 
+fuss. Blogging using github still seems like more work than it should be but I'm so deep in already I might as well continue. Tuesday I'm planning on checking out [Hakkavelin](http://hakkavelin.is/) 
 otherwise known as "The Meat Grinder". Looking back at this post perhaps it's not so much boredom as exhaustion. 
