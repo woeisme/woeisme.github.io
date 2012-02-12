@@ -10,7 +10,8 @@ I just don't feeling like venturing out of the
 <a href="images/20120207_009.jpg" rel="lightbox[out]"></a>
 <a href="images/20120207_010.jpg" rel="lightbox[out]"></a>
 <a href="images/20120207_011.jpg" rel="lightbox[out]"></a>
-<a href="images/20120207_012.jpg" rel="lightbox[out]" title="this is where all soup comes from in Iceland></a> much today is all. Friday, after work we hit three
+<a href="images/20120207_012.jpg" rel="lightbox[out]" title="this is where all soup comes from in Iceland"></a> 
+much today is all. Friday, after work we hit three
 <a href="images/20120209_004.jpg" rel="lightbox[museum]" title="A warm tree">museums</a>
 <a href="images/20120209_006.jpg" rel="lightbox[museum]" title="http://grapevine.is/Home/ReadArticle/santiago-sierra-NO-in-reykjavik"></a>
 <a href="images/20120209_007.jpg" rel="lightbox[museum]" title="http://www.santiago-sierra.com/index_1024.php"></a>
