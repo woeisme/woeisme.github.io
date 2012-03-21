@@ -14,5 +14,5 @@ approached by fbi agents and coerced into building cases against the other membe
 Here's what DID strike me, according to the [Times article](http://www.nytimes.com/2012/03/09/technology/hacker-informant-and-party-boy-of-the-projects.html?_r=1) what eventually got him to co-operate
 was his desire to protect his children. The underlying idea being, if he did not his children would be thrown to CPS and the foster care system. end stop. 
 Doesn't that strike anyone else as particularly messed up? Fbi agents well aware of how bad and damaging the foster system could be using that as a threat to induce co-operation?
-Anyhow thats just food for thought. 
+Anyhow thats just food for thought. Why the fuck is this post not working?
  
