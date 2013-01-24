@@ -1,6 +1,6 @@
 ---
 layout: default
-title: makerbot@lilug
+title: Hello Germany!
 ---
 
 
