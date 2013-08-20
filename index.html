@@ -5,11 +5,11 @@ title: welcome sucka
 <div class="content">
 	<ul>
 	{% for post in site.posts limit:5 %}
-		<li>
-		<h2><a href="{{post.url}}">{{ post.title }}</a><h2>
+		<li class="h-entry">
+		<h2><a class="u-url p-name" href="{{post.url}}">{{ post.title }}</a><h2>
 		</li>
-	{{ post.content }}
-	<em>Posted on {{ post.date | date_to_long_string }}.</em>
+	<div class="e-content p-summary">{{ post.content }}</div>
+	<em>Posted on <time class="dt-published" datetime="{{ post.date }}">{{ post.date | date_to_long_string }}</time>.</em>
 	{% endfor %}
 	</ul>
 <a href="http://my.dot.tk/cgi-bin/amb/landing.dottk?nr=427461::9806330::4" target="_new" style="text-decoration: none">
