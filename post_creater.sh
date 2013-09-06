@@ -29,3 +29,17 @@ fi
 done
 echo "done touching"
 echo -e "---\r\nlayout: default\r\ntitle: $title1\r\n---">_posts/${post}
+echo "would you like to create/edit this file now? y/n"
+read answer2
+if [ $answer2 == y ]
+	then
+	/usr/bin/nano _posts/${post}	
+	exit 
+elif [ $answer2 == n ]
+	then 
+	echo "goodbye"
+	exit
+else
+	echo "can't read what you wrote goodbye"
+	exit
+fi
